@@ -2,6 +2,8 @@
 
 A plugin for FlatOut: Ultimate Carnage that makes all physics props and opponents bouncy upon impact
 
+https://github.com/user-attachments/assets/e3714ac1-2246-44cf-a878-3cc3b3e47608
+
 ## Installation
 
 - Make sure you have the Steam GFWL version of the game, as this is the only version this plugin is compatible with. (exe size of 4242504 bytes)
