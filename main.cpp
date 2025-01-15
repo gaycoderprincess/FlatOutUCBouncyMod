@@ -63,6 +63,7 @@ bool IsObjectAPlayer(Car* pCar) {
 
 void __fastcall BouncyCarCheck(Car* pCar, void* origPtr, Car* pTarget) {
 	fCurrentBouncyScale = 1.0;
+	if (!bBouncyEnabled) return;
 	if (!origPtr) return;
 
 	fCurrentBouncyScale = fBouncyScale;
